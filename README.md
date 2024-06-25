@@ -14,7 +14,7 @@
 
 
 
-![hierarchy of needs](./data/static/data-science-pyramid.png)
+![hierarchy of needs](./res/data-science-pyramid.png)
 
 
 
