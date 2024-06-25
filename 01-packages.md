@@ -1,6 +1,9 @@
 # Python Packages
 
-- Numpy
-- Pandas
-- Matplotlib
-- Scikit-learn
+This section presents an introduction to the most common Python packages used in Data processing (extraction, cleaning, wrangling, transforming, etc.), analytics, visualization, machine learning, and Data Science.
+
+1. `numpy`: data structures and algorithms
+2. `pandas`: `DataFrame` data structure
+3. `pillow` and `opencv`: Image Processing with 
+4. `matplotlib`: visualize data
+5. `scikit-learn`: machine learning tools

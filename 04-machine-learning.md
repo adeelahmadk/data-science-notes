@@ -9,4 +9,5 @@
     - Clustering (k-means)
     - Instance based (knn)
 - Semi-Supervised
+- Deep Learning
 - Reinforcement Learning

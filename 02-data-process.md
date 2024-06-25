@@ -1,8 +1,10 @@
-# Data Engineering
+# Data Preprocessing
 
 - Data Acquisition
-    - Extraction
-    - Transforming
+    - Extract
+    - Transform
+        - cleaning
+        - wrangling
     - Load
 - Storage Formats
     - Documents
