@@ -2,13 +2,20 @@
 
 ## Contents
 
-1. Packages
-2. Data Preprocessing
-3. Analytics & Visualization
-4. Machine Learning
-    1. Supervised Machine Learning
-
-
+0. [Setup](00-environment.md)
+1. [Packages](01-packages.md)
+2. [Data Preprocessing](02-data-process.md)
+3. [Analytics & Visualization](03-data-analytics)
+4. [Machine Learning](04-machine-learning.md)
+    1. Supervised
+    2. Regression
+        - Decision Trees
+    3. Unsupervised
+        - Clustering (k-means)
+        - Instance based (knn)
+    4. Semi-Supervised
+    5. Deep Learning
+    6. Reinforcement Learning
 
 ## Data Science Hierarchy
 
